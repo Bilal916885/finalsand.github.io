@@ -252,8 +252,8 @@ transform: translateY(7vw);
         }
         .m1{
             position: absolute;
-            width: 77vw;
-            left: 4%;
+            width: 80vw;
+            left: 3%;
             z-index: 3;
             top: 50%;
         }
@@ -338,8 +338,8 @@ transform: translateY(7vw);
         }
         .m1{
             position: absolute;
-            width: 82vw;
-            left: 1%;
+            width: 85vw;
+            left: 0%;
             z-index: 3;
             top: 50%;
         }
@@ -366,8 +366,8 @@ transform: translateY(7vw);
         }
         .m1{
             position: absolute;
-            width: 90vw;
-            left: -4%;
+            width: 93vw;
+            left: -6%;
             z-index: 3;
             top: 50%;
         }
@@ -400,8 +400,8 @@ transform: translateY(7vw);
         }
         .m1{
             position: absolute;
-            width: 98vw;
-            left: -9%;
+            width: 101vw;
+            left: -12%;
             z-index: 3;
             top: 50%;
         }
